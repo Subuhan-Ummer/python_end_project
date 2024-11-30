@@ -1,4 +1,3 @@
-# python_end_project
 
 # **Employee Data Analysis Project**
 
